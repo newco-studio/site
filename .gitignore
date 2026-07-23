@@ -1,0 +1,15 @@
+# Local source material that must not be published to newco-studio/site
+/brand-kit/
+/logos-concepts/
+/references/
+
+# Local asset-generation scripts
+/*.py
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*** End Patch
